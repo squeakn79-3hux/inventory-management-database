@@ -1,6 +1,6 @@
 # Inventory Management Database System
 
-![Repository Banner](assets/repo_banner.png)
+![Repository Banner](assets/Repository_Banner.png)
 
 A relational database designed for **Bright Sparks Ltd**, a fictional electronics retailer, to manage inventory, suppliers and sales using MySQL.
 
